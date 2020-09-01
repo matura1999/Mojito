@@ -29,13 +29,14 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 27%;
+    /* height: 27%; */
+    margin-bottom: 10%;
     font-size: 60px;
 }
 
 .login-form {
     width: 100%;
-    height: 56.25%;
+    /* height: 56.25%; */
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -43,7 +44,7 @@ body {
     margin-bottom: 5.625%;
     font-size: 24px;
     border: 1px solid #CCCCCC;
-    padding: 0 10%;
+    padding: 10% 10%;
     background: transparent;
     border-radius: 15px;
     background-color: white;
@@ -80,9 +81,9 @@ input {
     align-items: center;
     border: 1px solid #CCCCCC;
     background: transparent;
-    padding: 0 10%;
+    padding: 5% 10%;
     border-radius: 15px;
-    flex: 1;
+    /* flex: 1; */
     font-size: 20px;
     background-color: white;
 }
